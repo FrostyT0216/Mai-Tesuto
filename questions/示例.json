@@ -1,0 +1,15 @@
+[
+  {
+    "chapter": "章节名称",
+    "questions": [
+      {
+        "global_id": "Q001",
+        "id": 1,
+        "type": "单选题",
+        "question": "题目内容",
+        "options": {"A": "选项A", "B": "选项B"},
+        "answer": "A"
+      }
+    ]
+  }
+]
