@@ -15,4 +15,8 @@ Thumbs.db
 # 日志文件
 *.log
 
+# 个人题库
 questions/国防教育章节测验题库.json
+
+# 开发文档（不需要上传）
+.trae/
